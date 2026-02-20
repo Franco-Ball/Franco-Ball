@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Franco Ball</h1>
 <h3 align="center">Systems Engineering Student at UTN | Full Stack Developer | AI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=franco-ball&label=Profile%20views&color=0e75b6&style=flat" alt="Franco Ball" />
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mí

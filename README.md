@@ -43,7 +43,7 @@ A través de mi marca **Innexio**, ayudo a empresas y profesionales a digitaliza
 | :--- | :--- | :--- |
 | **Mercado del Agua** | Plataforma con Agente de IA integrado para optimización de procesos. | React, Node.js, AI APIs |
 | **Abalos & Schenone** | Sitio profesional para firma de abogados, enfocado en presencia digital. | Web Dev, SEO |
-| **Plan B Coworking** | Sistema de gestión y reservas para espacios de trabajo colaborativo. | Full Stack |
+| **Nafran Indumentaria** | Gestion de stock y sitio de ventas online. | Full Stack |
 
 ---
 

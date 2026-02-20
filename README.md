@@ -33,7 +33,6 @@ A través de mi marca **Innexio**, ayudo a empresas y profesionales a digitaliza
   
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/> </a>
-  <img src="https://img.shields.io/badge/Prolog-Logic_Programming-orange?style=for-the-badge&logo=prolog" alt="prolog" height="35"/>
 </p>
 
 ---

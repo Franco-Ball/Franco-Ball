@@ -9,7 +9,7 @@
 
 Soy estudiante de **Ingeniería en Sistemas de Información en la UTN**, enfocado en el desarrollo de soluciones digitales que combinen eficiencia técnica y una gran experiencia de usuario. 
 
-A través de mi marca **Innexio**, ayudo a empresas y profesionales a digitalizar sus ideas. Me apasiona la intersección entre el desarrollo web moderno y la implementación de **Agentes de IA**.
+A través de **Innexio**, ayudo a empresas y profesionales a digitalizar sus ideas. Me apasiona la intersección entre el desarrollo web moderno y la implementación de **Agentes de IA**.
 
 - 🔭 Actualmente trabajando en: **Mercado del Agua** (Web + AI Agent).
 - 🌱 Aprendiendo: Arquitecturas escalables y optimización de modelos de IA.

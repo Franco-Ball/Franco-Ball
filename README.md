@@ -54,10 +54,6 @@ A través de mi marca **Innexio**, ayudo a empresas y profesionales a digitaliza
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franco-ball&layout=compact&theme=tokyonight&hide_border=true&cache_buster=2" alt="Lenguajes más usados" width="350" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=franco-ball&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
